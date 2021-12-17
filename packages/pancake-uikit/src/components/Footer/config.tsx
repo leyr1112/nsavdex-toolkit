@@ -7,7 +7,7 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Contact",
-        href: "https://docs.swap.nsavdex.io/contact-us",
+        href: "https://docs.nsavdex.io/contact-us",
       },
       {
         label: "Blog",
@@ -15,11 +15,11 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: "Community",
-        href: "https://docs.swap.nsavdex.io/contact-us/telegram",
+        href: "https://docs.nsavdex.io/contact-us/telegram",
       },
       {
         label: "CAKE",
-        href: "https://docs.swap.nsavdex.io/tokenomics/cake",
+        href: "https://docs.nsavdex.io/tokenomics/cake",
       },
       {
         label: "—",
@@ -36,15 +36,15 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Customer",
-        href: "Support https://docs.swap.nsavdex.io/contact-us/customer-support",
+        href: "Support https://docs.nsavdex.io/contact-us/customer-support",
       },
       {
         label: "Troubleshooting",
-        href: "https://docs.swap.nsavdex.io/help/troubleshooting",
+        href: "https://docs.nsavdex.io/help/troubleshooting",
       },
       {
         label: "Guides",
-        href: "https://docs.swap.nsavdex.io/get-started",
+        href: "https://docs.nsavdex.io/get-started",
       },
     ],
   },
@@ -57,7 +57,7 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: "Documentation",
-        href: "https://docs.swap.nsavdex.io",
+        href: "https://docs.nsavdex.io",
       },
       {
         label: "Bug Bounty",
@@ -65,11 +65,11 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: "Audits",
-        href: "https://docs.swap.nsavdex.io/help/faq#is-nsavdex-safe-has-nsavdex-been-audited",
+        href: "https://docs.nsavdex.io/help/faq#is-nsavdex-safe-has-nsavdex-been-audited",
       },
       {
         label: "Careers",
-        href: "https://docs.swap.nsavdex.io/hiring/become-a-chef",
+        href: "https://docs.nsavdex.io/hiring/become-a-chef",
       },
     ],
   },

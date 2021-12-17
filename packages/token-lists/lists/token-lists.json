@@ -1,16 +1,16 @@
 {
-  "https://tokens.swap.nsavdex.io/pancakeswap-default.json": {
+  "https://tokens.nsavdex.io/pancakeswap-default.json": {
     "name": "PancakeSwap Default",
-    "homepage": "https://swap.nsavdex.io"
+    "homepage": "https://nsavdex.io"
   },
-  "https://tokens.swap.nsavdex.io/pancakeswap-extended.json": {
+  "https://tokens.nsavdex.io/pancakeswap-extended.json": {
     "name": "PancakeSwap Extended",
-    "homepage": "https://swap.nsavdex.io"
+    "homepage": "https://nsavdex.io"
     
   },
-  "https://tokens.swap.nsavdex.io/pancakeswap-top-100.json": {
+  "https://tokens.nsavdex.io/pancakeswap-top-100.json": {
     "name": "PancakeSwap Top 100",
-    "homepage": "https://swap.nsavdex.io"
+    "homepage": "https://nsavdex.io"
     
   },
   "https://tokens.coingecko.com/binance-smart-chain/all.json": {

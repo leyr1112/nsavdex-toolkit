@@ -655,7 +655,7 @@ it("renders ConnectModal correctly", () => {
             </p>
             <a
               class="c22"
-              href="https://docs.swap.nsavdex.io/get-started/connection-guide"
+              href="https://docs.nsavdex.io/get-started/connection-guide"
               rel="noreferrer noopener"
               scale="md"
               target="_blank"

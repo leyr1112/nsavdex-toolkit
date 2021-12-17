@@ -113,7 +113,7 @@ const getTokens = async (): Promise<BitqueryEntity[]> => {
 const getTokenLogo = (address: string): string => {
   // Note: fs.existsSync can't be used here because its not case sensetive
   if (logoFiles.includes(`${address}.png`)) {
-    return `https://tokens.swap.nsavdex.io/images/${address}.png`;
+    return `https://tokens.nsavdex.io/images/${address}.png`;
   }
 
   return `https://assets.trustwalletapp.com/blockchains/smartchain/assets/${address}/logo.png`;

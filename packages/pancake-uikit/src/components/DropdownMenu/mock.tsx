@@ -12,7 +12,7 @@ const ItemsMock: DropdownMenuItems[] = [
   },
   {
     label: "LP Migration",
-    href: "https://v1exchange.swap.nsavdex.io/#/migrate",
+    href: "https://v1exchange.nsavdex.io/#/migrate",
     type: DropdownMenuItemType.EXTERNAL_LINK,
   },
   {

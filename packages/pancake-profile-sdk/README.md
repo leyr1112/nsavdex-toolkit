@@ -107,7 +107,7 @@ console.log(team);
 
 Returns full profile data for a given address. Under the hood retrieves username and team data using `getUsername` and `getTeam` and combines it with data from the profile contract. If address does not have a profile - returns `{ hasRegistered: false, profile: null }`. At the moment does not retrieve achievements (see [getAchievements](#getAchievements)).
 
-It also sets `profile_${address}` cookie containing username and avatar (now only for swap.nsavdex.io domain, maybe configurable in future versions)
+It also sets `profile_${address}` cookie containing username and avatar (now only for nsavdex.io domain, maybe configurable in future versions)
 
 ```js
 import PancakeProfileSdk from "@pancakeswap/profile-sdk";

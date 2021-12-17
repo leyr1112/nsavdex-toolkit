@@ -26,15 +26,15 @@ export const links: MenuItemsType[] = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.swap.nsavdex.io",
+        href: "https://exchange.nsavdex.io",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.swap.nsavdex.io/#/pool",
+        href: "https://exchange.nsavdex.io/#/pool",
       },
       {
         label: "Charts",
-        href: "https://exchange.swap.nsavdex.io/#/charts",
+        href: "https://exchange.nsavdex.io/#/charts",
         iconName: "Chart",
         isMobileOnly: true,
       },
@@ -149,7 +149,7 @@ export const userMenulinks: DropdownMenuItems[] = [
   },
   {
     type: DropdownMenuItemType.EXTERNAL_LINK,
-    href: "https://swap.nsavdex.io",
+    href: "https://nsavdex.io",
     label: "Link",
   },
   {

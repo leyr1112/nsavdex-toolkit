@@ -142,7 +142,7 @@ class PancakeProfileSdk {
       let nft: Nft;
       if (isActive) {
         nft = await getNftByTokenId(nftAddress, tokenId, this.provider, this.chainId);
-        const avatar = nft ? `https://swap.nsavdex.io/images/nfts/${nft.images.sm}` : undefined;
+        const avatar = nft ? `https://nsavdex.io/images/nfts/${nft.images.sm}` : undefined;
         // Save the preview image in a cookie so it can be used on the exchange
         // TODO v2: optional (and configurable) Cookies.set
         Cookies.set(
@@ -151,7 +151,7 @@ class PancakeProfileSdk {
             username,
             avatar,
           },
-          { domain: "swap.nsavdex.io", secure: true, expires: 30 }
+          { domain: "nsavdex.io", secure: true, expires: 30 }
         );
       }
 

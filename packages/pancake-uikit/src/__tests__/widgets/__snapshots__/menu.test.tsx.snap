@@ -1608,7 +1608,7 @@ exports[`renders correctly 1`] = `
                 >
                   <a
                     class="c12 c13"
-                    href="/https://exchange.swap.nsavdex.io"
+                    href="/https://exchange.nsavdex.io"
                   >
                     Exchange
                   </a>
@@ -1618,7 +1618,7 @@ exports[`renders correctly 1`] = `
                 >
                   <a
                     class="c12 c13"
-                    href="/https://exchange.swap.nsavdex.io/#/pool"
+                    href="/https://exchange.nsavdex.io/#/pool"
                   >
                     Liquidity
                   </a>
@@ -1880,7 +1880,7 @@ exports[`renders correctly 1`] = `
           >
             <a
               class="c27"
-              href="https://swap.nsavdex.io/swap?outputCurrency=0x4837eB79E05C3aC845C010060C488992d1f1AcE0"
+              href="https://nsavdex.io/swap?outputCurrency=0x4837eB79E05C3aC845C010060C488992d1f1AcE0"
               target="_blank"
             >
               <svg
@@ -2219,7 +2219,7 @@ exports[`renders correctly 1`] = `
           >
             <a
               class="c43"
-              href="/https://exchange.swap.nsavdex.io"
+              href="/https://exchange.nsavdex.io"
             >
               Exchange
             </a>
@@ -2233,7 +2233,7 @@ exports[`renders correctly 1`] = `
           >
             <a
               class="c43"
-              href="/https://exchange.swap.nsavdex.io/#/pool"
+              href="/https://exchange.nsavdex.io/#/pool"
             >
               Liquidity
             </a>
@@ -2251,7 +2251,7 @@ exports[`renders correctly 1`] = `
           >
             <a
               class="c43"
-              href="/https://exchange.swap.nsavdex.io/#/charts"
+              href="/https://exchange.nsavdex.io/#/charts"
             >
               <svg
                 class="c46"
@@ -2390,7 +2390,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c61 c62"
                     color="#F4EEFF"
-                    href="https://docs.swap.nsavdex.io/contact-us"
+                    href="https://docs.nsavdex.io/contact-us"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -2416,7 +2416,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c61 c62"
                     color="#F4EEFF"
-                    href="https://docs.swap.nsavdex.io/contact-us/telegram"
+                    href="https://docs.nsavdex.io/contact-us/telegram"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -2429,7 +2429,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c61 c62"
                     color="#F4EEFF"
-                    href="https://docs.swap.nsavdex.io/tokenomics/cake"
+                    href="https://docs.nsavdex.io/tokenomics/cake"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -2473,7 +2473,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c61 c62"
                     color="#F4EEFF"
-                    href="Support https://docs.swap.nsavdex.io/contact-us/customer-support"
+                    href="Support https://docs.nsavdex.io/contact-us/customer-support"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -2486,7 +2486,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c61 c62"
                     color="#F4EEFF"
-                    href="https://docs.swap.nsavdex.io/help/troubleshooting"
+                    href="https://docs.nsavdex.io/help/troubleshooting"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -2499,7 +2499,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c61 c62"
                     color="#F4EEFF"
-                    href="https://docs.swap.nsavdex.io/get-started"
+                    href="https://docs.nsavdex.io/get-started"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -2534,7 +2534,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c61 c62"
                     color="#F4EEFF"
-                    href="https://docs.swap.nsavdex.io"
+                    href="https://docs.nsavdex.io"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -2560,7 +2560,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c61 c62"
                     color="#F4EEFF"
-                    href="https://docs.swap.nsavdex.io/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited"
+                    href="https://docs.nsavdex.io/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -2573,7 +2573,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c61 c62"
                     color="#F4EEFF"
-                    href="https://docs.swap.nsavdex.io/hiring/become-a-chef"
+                    href="https://docs.nsavdex.io/hiring/become-a-chef"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -3238,7 +3238,7 @@ exports[`renders correctly 1`] = `
                 >
                   <a
                     class="c27"
-                    href="https://swap.nsavdex.io/swap?outputCurrency=0x4837eB79E05C3aC845C010060C488992d1f1AcE0"
+                    href="https://nsavdex.io/swap?outputCurrency=0x4837eB79E05C3aC845C010060C488992d1f1AcE0"
                     target="_blank"
                   >
                     <svg
@@ -3393,7 +3393,7 @@ exports[`renders correctly 1`] = `
                 </div>
                 <a
                   class="c93"
-                  href="https://swap.nsavdex.io/swap?outputCurrency=0x4837eB79E05C3aC845C010060C488992d1f1AcE0"
+                  href="https://nsavdex.io/swap?outputCurrency=0x4837eB79E05C3aC845C010060C488992d1f1AcE0"
                   scale="sm"
                   target="_blank"
                 >

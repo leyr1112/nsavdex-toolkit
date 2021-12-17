@@ -173,9 +173,9 @@ describe("PancakeProfileSdk", () => {
           `profile_${existingAddress1}`,
           {
             username: "Cheems",
-            avatar: `https://swap.nsavdex.io/images/nfts/${sleepyNft.images.sm}`,
+            avatar: `https://nsavdex.io/images/nfts/${sleepyNft.images.sm}`,
           },
-          { domain: "swap.nsavdex.io", secure: true, expires: 30 }
+          { domain: "nsavdex.io", secure: true, expires: 30 }
         );
         expect(Cookies.set).toBeCalledTimes(1);
       });

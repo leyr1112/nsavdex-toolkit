@@ -68,7 +68,7 @@ export const Anchors: React.FC = () => {
                 return (
                   <Button
                     as="a"
-                    href="https://swap.nsavdex.io"
+                    href="https://nsavdex.io"
                     key={scale}
                     variant={variant}
                     scale={scale}
@@ -84,10 +84,10 @@ export const Anchors: React.FC = () => {
         })}
       </Box>
       <Box>
-        <Button as="a" href="https://swap.nsavdex.io" mr="8px" external disabled>
+        <Button as="a" href="https://nsavdex.io" mr="8px" external disabled>
           Disabled
         </Button>
-        <Button as="a" href="https://swap.nsavdex.io" variant="secondary" external disabled>
+        <Button as="a" href="https://nsavdex.io" variant="secondary" external disabled>
           Disabled
         </Button>
       </Box>
