@@ -25,7 +25,7 @@ interface BitqueryEntity {
 const blacklist: string[] = [
   // List of default tokens to exclude
   "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c", // WBNB
-  "0x4837eB79E05C3aC845C010060C488992d1f1AcE0", // CAKE
+  "0x64A886C78bDe80cA03B621cE7282f05B180F1FD6", // CAKE
   "0xe9e7cea3dedca5984780bafc599bd69add087d56", // BUSD
   "0x55d398326f99059fF775485246999027B3197955", // USDT
   "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c", // BTCB

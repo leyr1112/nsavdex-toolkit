@@ -79,7 +79,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "Twitter",
-    href: "https://twitter.com/nsavdex",
+    href: "https://twitter.com/nsavdexio",
   },
   {
     label: "Telegram",
@@ -89,66 +89,9 @@ export const socials = [
         label: "English",
         href: "https://t.me/nsavdex",
       },
-      {
-        label: "Bahasa Indonesia",
-        href: "https://t.me/nsavdexIndonesia",
-      },
-      {
-        label: "中文",
-        href: "https://t.me/nsavdex_CN",
-      },
-      {
-        label: "Tiếng Việt",
-        href: "https://t.me/nsavdexVN",
-      },
-      {
-        label: "Italiano",
-        href: "https://t.me/nsavdex_ita",
-      },
-      {
-        label: "русский",
-        href: "https://t.me/nsavdex_ru",
-      },
-      {
-        label: "Türkiye",
-        href: "https://t.me/nsavdexturkiye",
-      },
-      {
-        label: "Português",
-        href: "https://t.me/nsavdexPortuguese",
-      },
-      {
-        label: "Español",
-        href: "https://t.me/nsavdexEs",
-      },
-      {
-        label: "日本語",
-        href: "https://t.me/nsavdexjp",
-      },
-      {
-        label: "Français",
-        href: "https://t.me/nsavdexfr",
-      },
-      {
-        label: "Announcements",
-        href: "https://t.me/nsavdexAnn",
-      },
-      {
-        label: "Whale Alert",
-        href: "https://t.me/nsavdexWhales",
-      },
     ],
   },
-  {
-    label: "Github",
-    icon: "Github",
-    href: "https://github.com/nsavdex/",
-  },
-  {
-    label: "Discord",
-    icon: "Discord",
-    href: "https://discord.gg/nsavdex",
-  },
+  
 ];
 
 export const langs: Language[] = [...Array(20)].map((_, i) => ({
